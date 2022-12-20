@@ -1,0 +1,24 @@
+{
+  "okay": "Okay",
+
+  "field.connect.text": "Connect to Server (\"serverip:\"%1\")",
+  "field.connected_port.text": "Connected at Port: %1",
+  "field.server_port.text": "Open Port: %1",
+  "field.password.text": "Enter Password",
+  "field.server_password.text": "Enter Server Password",
+
+  "button.view_error_log.text": "Error Log",
+  "button.select_executable.text": "Send File",
+  "button.submit_file.text": "Submit %1",
+  "button.start_server.text": "Start Server",
+
+  "error.port_integer.text": "Port must be an Integer",
+  "error.connect.text": "Unable to connect to: %1",
+  "error.address_regex.text": "Split ip by \"address:port\"",
+
+  "error.not_execute.text": "Must be an executable File",
+  "error.no_file.text": "No file selected",
+  "error.unable_close_client.text": "Unable to close: %1",
+
+  "prompt.executed_file.text": "Executed File: %1"
+}

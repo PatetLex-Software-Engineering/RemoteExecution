@@ -1,0 +1,8 @@
+{
+  "field.url.text": "URL ending in .webexecution",
+  "field.id.text": "Device Id",
+  "field.scrape_time.text": "Scrape Time (seconds)",
+  "field.pull.text": "Pull from URL",
+  "field.run.pause.text": "Pause Execution",
+  "field.run.run.text": "Run Execution"
+}
