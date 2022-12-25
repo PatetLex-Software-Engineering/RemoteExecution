@@ -11,6 +11,7 @@
   "button.select_executable.text": "Send File",
   "button.submit_file.text": "Submit %1",
   "button.start_server.text": "Start Server",
+  "button.clear_processes.text": "Stop Processes",
 
   "error.port_integer.text": "Port must be an Integer",
   "error.connect.text": "Unable to connect to: %1",

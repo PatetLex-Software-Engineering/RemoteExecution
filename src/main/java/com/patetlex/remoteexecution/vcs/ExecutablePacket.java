@@ -37,7 +37,6 @@ public class ExecutablePacket {
             throw new RuntimeException(e);
         }
     }
-
     public static ExecutablePacket read(String json) {
         JsonElement element = gson.fromJson(json, JsonElement.class);
         if (element.isJsonObject()) {
@@ -52,5 +51,10 @@ public class ExecutablePacket {
             return new ExecutablePacket(Data.cache(file, "\\exe\\" + identifier));
         }
         return null;
+    }
+
+    @Deprecated
+    public static void deprecate() {
+
     }
 }
